@@ -5,13 +5,7 @@
 
 <template>
   <div class="home">
-    <h1>Home</h1>
+    <h1 class="bg-blue-500 text-white p-5">Hello World!</h1>
     <p>Welcome to the home page!</p>
   </div>
 </template>
-
-<style scoped>
-.home {
-    padding: 20px;
-}
-</style>
